@@ -1,4 +1,4 @@
-module headingid
+module github.com/zenarvus/goldmark-headingid
 
 go 1.24.7
 
